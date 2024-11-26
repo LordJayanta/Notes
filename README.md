@@ -6,10 +6,12 @@ These are my notes, you can read them if you want. You can tell me if you are wr
 
 
 ## Cyber Security
-- Kali Linux
-    - Settings
-        - [GUI Reinstall](./CyberSecurity/Kali-linux/GUI-reinstall.md)
-        - [GUI Reinstall: Xfce](./CyberSecurity/Kali-linux/GUI-xfce-install.md)
 - WIFI Hacking
     - [Check Monitor Mode](./CyberSecurity/Wifi-Hack/Montormode.md)
     - [De-Auth Attack](./CyberSecurity/Wifi-Hack/DeAuth/DeAuth-tut.md)
+
+## Kali Linux
+- Settings
+    - [wifi](./Kali-linux/SETTING-cli-wifi.md)
+    - [GUI Reinstall](./Kali-linux/GUI-reinstall.md)
+    - [GUI Reinstall: Xfce](./Kali-linux/GUI-xfce-install.md)
