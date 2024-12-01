@@ -12,7 +12,7 @@ These are my notes. Feel free to read them. If you find any mistakes, let me kno
 - RAT :
     - Android
         1. [Basic Tools](./CyberSecurity/RAT/01-basic-tools.md)
-        2. [Basic Hacking Steps](./CyberSecurity/RAT/02-android-hacking-steps)
+        2. [Basic Hacking Steps](./CyberSecurity/RAT/02-android-hacking-steps.md)
 
 ## Kali Linux
 - Settings
